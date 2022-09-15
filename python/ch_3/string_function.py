@@ -1,0 +1,7 @@
+story=('my name is mittal domadiya maheshbhai and i live in india and i love to gather imformation.')
+# print(len(story))   
+# print(story.endswith("imformation."))
+# print(story.count("d"))
+# print(story.capitalize(""))
+# print(story.find("india"))
+print(story.replace("mittal","mit"))    
