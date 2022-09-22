@@ -1,6 +1,0 @@
-a=input('enter value of a:-')
-a=int(a)
-b=input('enter value of b:-')
-b=int(b)
-c=((a+b)/2)
-print('everage of the ',a,' and ',b,'is:-',c)     
